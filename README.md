@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Dinithi Uthpala</h1>
 
-<!--
-**dinithi-uthpala/dinithi-uthpala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Data Science Undergraduate | SLIIT</h3>
 
-Here are some ideas to get you started:
+I am a third-year BSc (Hons) Information Technology undergraduate specializing in Data Science at Sri Lanka Institute of Information Technology (SLIIT). I am interested in data analytics, machine learning, databases, business intelligence, and web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Currently improving my skills in Python, R, SQL, Machine Learning, and Power BI
+- Interested in Data Analyst, Business Intelligence, and Data Science internship opportunities
+- Building academic and personal projects to improve my practical knowledge
+
+## Technical Skills
+
+**Programming Languages:** Python, R, Java, C, C++  
+**Databases:** MySQL, Oracle, MongoDB  
+**Web Technologies:** HTML, CSS, JavaScript, PHP, React, Node.js  
+**Data Science & Analytics:** Data Analysis, Machine Learning, Data Visualization, Statistical Modelling  
+**Tools & Platforms:** Git, GitHub, VS Code, Jupyter Notebook, RStudio, Power BI, Microsoft Excel  
+
+## Featured Project Areas
+
+### Data Analysis
+- Data cleaning and preprocessing
+- Exploratory data analysis
+- Data visualization and insight generation
+
+### Machine Learning
+- Regression and classification models
+- Model training and evaluation
+- Basic predictive analytics
+
+### Database Management
+- ER diagrams and relational database design
+- SQL queries and normalization
+- MySQL and Oracle database projects
+
+### Web Development
+- Front-end development using HTML, CSS, and JavaScript
+- Basic web application development
+- Version control using Git and GitHub
+
+## Connect with Me
+
+**LinkedIn:** https://www.linkedin.com/in/n-h-d-uthpala-275a543a4  
+**GitHub:** https://github.com/dinithi-uthpala  
+**Email:** IT23815032@my.sliit.lk
