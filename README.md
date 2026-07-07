@@ -42,4 +42,4 @@ I am a third-year BSc (Hons) Information Technology undergraduate specializing i
 
 **LinkedIn:** https://www.linkedin.com/in/n-h-d-uthpala-275a543a4  
 **GitHub:** https://github.com/dinithi-uthpala  
-**Email:** IT23815032@my.sliit.lk
+**Email:** dinithiuthpala31@gmail.com
